@@ -1,7 +1,5 @@
 # <div align="center">Maestro Link</div>
 
----
-
 ## Dependencies:
 - ### QT 
     - This software uses Qt as it's window library.
